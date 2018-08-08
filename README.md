@@ -1,10 +1,10 @@
-# Scripts
+# Htdocs 
 
-This is a collection of scripts I'm using in order to organize and speed up my work
+This is a collection of php scripts I'm using in order to organize and speed up my work
 
 ## Getting Started
 
-Simply download and run the scripts.
+Download, install apache/php/mysql suite and adjust to your needs
 
 ### Prerequisites
 
@@ -15,6 +15,7 @@ perl
 python
 php
 mysql
+apache
 ```
 
 ## Authors
